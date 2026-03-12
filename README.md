@@ -27,6 +27,8 @@ HH API → Python → PostgreSQL → SQL витрина → DataLens Dashboard
 ## Дашборд
 
 ![Dashboard](screenshots/dashboard_full.png)
+
+## Дашборд с фильтрами
 ![Dashboard](screenshots/dashboard_data_analyst.png)
 ![Dashboard](screenshots/dashboard_city.png)
 ![Dashboard](screenshots/dashboard_exp.png)
